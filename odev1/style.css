@@ -41,9 +41,6 @@ li a:hover {
     background-color: gainsboro;
 }
 
-
-
-
 @keyframes slayt {
     0%{left:0%}
     20%{left:0%}
@@ -54,7 +51,6 @@ li a:hover {
     75%{left:-300%}
     90%{left:-300%}
 }
-
 
 .cake1 {
     position: absolute;
