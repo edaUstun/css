@@ -1,0 +1,59 @@
+body {
+    max-width: 100%;
+    height: auto;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search {
+    background-color: gainsboro;
+    text-align: -webkit-center;
+    width: 70%;
+  margin: 0 auto;
+}
+
+.special {
+    background-color: #7EE5DA;
+    width:30%;
+    float: left;
+    margin: 2px;
+    height: 60px;
+    padding: 10px;
+    text-align: center;
+}
+
+.help {
+    background-color: #7EE5DA;
+    width:15%;
+    float: left;
+    margin: 2px;
+    height: 80px;
+    text-align: center;
+}
+
+.getgoogle {
+    background-color: #7EE5DA;
+    width:35%;
+    float: left;
+    margin: 2px;
+    height: 80px;
+    text-align: center;
+}
+
+.center {
+  margin: 0 auto;
+  margin-left: 211px;
+}
+
+
+#footer{
+    margin-top: 15px;
+    margin-left: 596px;
+    margin-right: 0;
+    float: left;
+    font-size: smaller;
+}
